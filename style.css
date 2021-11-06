@@ -1,0 +1,27 @@
+.Input {
+    margin-top: 10px;
+    border-radius: 20px;
+}
+
+#button1 {
+    color: greenyellow ;
+    background-color: green ;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+#button2 {
+    display: none;
+    color: lightskyblue ;
+    background-color: rgb(31, 100, 168) ;
+    border-radius: 20px;
+    font-size: 40px;
+}
+
+#button3 {
+    display: none;
+    color:rgb(119, 8, 8) ;
+    background-color:indianred ;
+    border-radius: 20px;
+    font-size: 40px;
+}
